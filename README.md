@@ -35,5 +35,10 @@ python3 Echo_normalisation_script.py
 A GUI will guide you through the process. 
 Test files are available in the repository. 
 
+## Examples
+
+1. With a standard input / output: Example.mov
+2. Example with "0" as input concentration and a sample with a input concentration lower than the desired output one: Example_0orImpossibleNormalisation.mov 
+
 ## License
 [London Biofoundry](https://www.londonbiofoundry.org/)
