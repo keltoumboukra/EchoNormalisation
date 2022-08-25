@@ -23,7 +23,7 @@ Input:
 .csv file that contains list of wells and corresponding concentrations in ng/uL. 
 
 Output:
-- 2 Echo ready files to transfer buffer and samples 
+- 2 Echo ready files to transfer buffer and samples (note that volumes are in nanoliters in these files).
 - 1 report containing the list of wells that failed to be processed (if any) and the reason for failure. 
 
 To run: 
